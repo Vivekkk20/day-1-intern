@@ -1,0 +1,19 @@
+pwd
+ls
+ls -la
+cd
+mkdir
+touch
+rm
+rmdir
+cp 
+mv
+clear
+history
+
+#error faced
+when i tried to delete abc.txt file,it showed "No such file or directory".
+
+#most useful command
+I found history command usefull beause it shows all previously executed commands.
+
